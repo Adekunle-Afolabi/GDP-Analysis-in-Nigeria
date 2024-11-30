@@ -11,8 +11,16 @@ Gross Domestic Product (GDP) is a measure of the economic performance of a count
 -	Provide Contextual Analysis: Offer contextual explanations for observed GDP trends and growth rates, linking economic events, climate and seasonality, and policies to their potential impacts on the GDP.
 
 ## Tools
+- Power BI
+- Excel
 
 ## Techniques and Skills
+- Data normalisation
+- Data transformation with Power Query
+- Data Modelling
+- Bookmarks
+- Report Automation
+- Data Visualization
 
 ## Datasource
 
