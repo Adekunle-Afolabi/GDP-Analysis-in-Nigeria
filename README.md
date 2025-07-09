@@ -41,7 +41,7 @@ Gross Domestic Product (GDP) is a measure of the economic performance of a count
 - GDPperCapita by Quarter year
   
 ### Overview
-## GDP by Sector Analysis
+#### GDP by Sector Analysis
 - Real GDP by sector analysis shows the contribution of each sector to the total real GDP from quarter to quarter
   
 ## Recommendations
