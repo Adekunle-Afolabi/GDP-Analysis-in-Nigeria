@@ -24,7 +24,7 @@ Gross Domestic Product (GDP) is a measure of the economic performance of a count
 
 ## Datasource
 - https://www.nigerianstat.gov.ng/elibrary
-- https://www.worldometers.info/world-population/nigeria-population/#:~:text=Nigeria%202024%20population%20is%20estimated,(and%20dependencies)%20by%20population.
+- https://www.worldometers.info/world-population/nigeria-population/#:~:text=Nigeria%202024%20population%20is%20estimated,(and%20dependencies)%20by%20population
 
 ## Data Model
 - GDP
